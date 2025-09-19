@@ -31,16 +31,16 @@ for and make quick and informed decisions during a crisis.
 13. Open up terminal and type 'cd..' to your folder location
 14. type 'npm install' to start install libraries used in the project.
 15. Then, depend on you server, you might want to make modification to make the project work:<br>
-    IP ADDRESS<br>
+    #### IP ADDRESS
     - For some page in 'screen' folder, look at the URL link of this: "http://192.168.1.116/outeralert/{phpFileName}/"
     - change the IP address router '192.168.1.116' to your current IP address.
-    - type 'ipconfig' to know your router. <br>
-    PORT NUMBER<br>
+    - type 'ipconfig' to know your router.<br>
+    #### PORT NUMBER
     - Go to 'Database.db' on your 'outeralert' folder from 'htdocs' (XAMPP)
     - Depend on your configuration, you might want to change the port number ('localhost:3307').
     - View the XAMPP control panel to see your port number.
     - To change the port number, go to the XAMPP control panel and click on 'Config' and tap 'my.ini'.
-    - See 'port={localhost number}', change or switch to your current port number.
+    - See 'port={localhost number}', change or switch to your current port number. <br><br>
 16. After all set up and done, back to the IDE, type at the terminal 'npx expo start'.
 17. Scan the QR code to bundling the application.
 18. You are good to go!
