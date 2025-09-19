@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`SNAPSHOT TESTING Checklist Function 1`] = `
+[
+  {
+    "items": [
+      {
+        "done": false,
+        "name": "Find Shelter",
+      },
+      {
+        "done": false,
+        "name": "Buy Medicine Kit",
+      },
+    ],
+    "name": "Secure Safety Location",
+  },
+]
+`;
+
+exports[`SNAPSHOT TESTING Notification Function 1`] = `
+[
+  {
+    "message": "Earthquake hit 2.4",
+    "seen": false,
+  },
+  {
+    "message": "Flood Hit Habour",
+    "seen": false,
+  },
+]
+`;
+
+exports[`SNAPSHOT TESTING User Profile 1`] = `
+{
+  "level": 1,
+  "password": "theusername123",
+  "profilePic": "profile.png",
+  "username": "newone123",
+  "xp": 0,
+}
+`;
