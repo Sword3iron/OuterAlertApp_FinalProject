@@ -31,11 +31,11 @@ for and make quick and informed decisions during a crisis.
 13. Open up terminal and type 'cd..' to your folder location
 14. type 'npm install' to start install libraries used in the project.
 15. Then, depend on you server, you might want to make modification to make the project work:<br>
-    <u>IP ADDRESS</u>
+    IP ADDRESS<br>
     - For some page in 'screen' folder, look at the URL link of this: "http://192.168.1.116/outeralert/{phpFileName}/"
     - change the IP address router '192.168.1.116' to your current IP address.
     - type 'ipconfig' to know your router. <br>
-    <u>PORT NUMBER</u>
+    PORT NUMBER<br>
     - Go to 'Database.db' on your 'outeralert' folder from 'htdocs' (XAMPP)
     - Depend on your configuration, you might want to change the port number ('localhost:3307').
     - View the XAMPP control panel to see your port number.
