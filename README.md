@@ -12,3 +12,7 @@ Preparadness and Response. This app is designed to providing real-time alert-bas
 the geographical conditions, sending out distress signal to the first-responders for immediate assistance, 
 gamification throughout interactive engagement and other reliable resources that may help users to prepares 
 for and make quick and informed decisions during a crisis. 
+
+
+1. Download the .zip folder from GitHub.
+2. Put the .zip folder and extract it in your working environment.
