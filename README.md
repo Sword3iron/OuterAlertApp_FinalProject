@@ -14,5 +14,5 @@ gamification throughout interactive engagement and other reliable resources that
 for and make quick and informed decisions during a crisis. 
 
 
-1. Download the .zip folder from GitHub.
+1. Download the .zip folder from GitHub. 
 2. Put the .zip folder and extract it in your working environment.
