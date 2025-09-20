@@ -42,5 +42,5 @@ may aid users to preparing for and make shift and informed decisions during a mo
     - To change the port number, go to the XAMPP control panel and click on 'Config' and tap 'my.ini'.
     - See 'port={localhost number}', change or switch to your current port number. <br><br>
 16. After all set up and done, back to the IDE, type at the terminal 'npx expo start'.
-17. Scan the QR code to bundling the application.
+17. Open your Expo Go, scan the QR code to bundling the application.
 18. You are good to go!
