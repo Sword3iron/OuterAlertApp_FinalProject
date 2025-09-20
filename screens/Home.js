@@ -8,7 +8,7 @@ import { ThemeContext } from '../componentFolder/colorComponent/ThemeContext';
 
 const Stack = createStackNavigator(); //set navigation 
 const { width } = Dimensions.get('window'); //set dimentsion of the width as the size of the mobile window
- 
+
 //This function is used to display the headlines on the notification box
 const HeadlinesBar = () => { //notification bar function
     //constant variables
