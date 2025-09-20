@@ -7,7 +7,7 @@ import ThemeProvider from './componentFolder/colorComponent/ThemeContext';
 import BottomTabNavigator from './bottomNavigation/BottomNavBar';
 import SplashScreen from './screens/Splash';
 import LoginScreen from './screens/Login';
-import RegisterScreen from './screens/SingUp';
+import RegisterScreen from './screens/SignUp';
 import ProfilePage from './screens/Profile';
 
 
