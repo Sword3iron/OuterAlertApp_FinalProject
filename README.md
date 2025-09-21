@@ -13,13 +13,13 @@ the geographical conditions, dispatching distress signals to first-responders fo
 incoparating gamification throughout interactive engagement and offering other reliable resources that 
 may aid users to preparing for and make shift and informed decisions during a moment in crisis. 
 
-
+Here's step by step on how to run the code:
 1. Download the 'OuterAlertApp_FinalProject'.zip folder from GitHub. 
 2. Put the .zip folder and extract it in your working environment.
-3. Download the require software:
+3. Download the required software:
    - XAMPP ("https://www.apachefriends.org/download.html")
    - Expo Go (Google Play Store, IOS store)
-4. Inside the 'OuterAlertApp_FinalProject' there is a MySQL file ('outeralert.sql') and PHP .zip folder ('outeralert(phpfiles)'). DO NOT DELETE both of them.
+4. Inside the 'OuterAlertApp_FinalProject', there is a MySQL file ('outeralert.sql') and PHP .zip folder ('outeralert(phpfiles)'). DO NOT DELETE both of them.
 5. After downloaded XAMPP, install the software to your backend environment (C:\Xampp)
 6. Click inside the folder the XAMPP, you will see 'htdocs' folder, click inside.
 7. Extract the PHP .zip folder ('outeralert(phpfiles)') in there.
