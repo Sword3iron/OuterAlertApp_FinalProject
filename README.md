@@ -32,7 +32,7 @@ Here's step by step on how to run the code:
 14. type 'npm install' to start install libraries used in the project.
 15. Then, depend on you server, you might want to make modification to make the project work:<br>
     #### IP ADDRESS
-    - For some page in 'screen' folder, look at the URL link of this: "http://192.168.1.116/outeralert/{phpFileName}/"
+    - For some page in 'screen' folder, look at the URL link of this: `http://192.168.1.116/outeralert/{phpFileName}/`
     - change the IP address router '192.168.1.116' to your current IP address.
     - type 'ipconfig' to know your router.<br>
     #### PORT NUMBER
