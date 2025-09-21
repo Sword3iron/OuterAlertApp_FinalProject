@@ -62,7 +62,9 @@ function ProfileScreen({ route, navigation }){
                         />
                         ) : (
                             <View style={styles.avatarCircle}>
-                                <Text style={[styles.avatarText, {color: colors.text}]}>{firstAvatar}</Text>
+                                <Text style = {styles.avatarText}>
+                                    {firstAvatar}
+                                </Text>
                             </View>
                         )}
                     </View>

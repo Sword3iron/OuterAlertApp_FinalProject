@@ -68,7 +68,7 @@ function SosCallResponders({route, navigation}){
                                     />
                                 ) : (
                                     <View style = {styles.avatarCircle}>
-                                        <Text style = {[styles.avatarText, {color: colors.text}]}>
+                                        <Text style = {styles.avatarText}>
                                             {firstAvatar}
                                         </Text>
                                     </View>             
